@@ -1,6 +1,6 @@
 # TicTacToe & OrderAndChaos & Connect-4
 
-A scalable Tic-Tac-Toe game, a 6*6 Order And Chaos Game and a 7*6 Connect-4 Game.
+A scalable Tic-Tac-Toe game, a 6\*6 Order And Chaos Game and a 7*6 Connect-4 Game.
 
 Files: 
 Main.java
